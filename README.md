@@ -1,6 +1,6 @@
 # Code Challenge
 
-Use json hosted on the wev server to output a list of all the cats in alphabetical order under a heading of the gender of their owner.
+Use json hosted on the web server to output a list of all the cats in alphabetical order under the heading of the gender of their owner.
 
 ## Design
 
